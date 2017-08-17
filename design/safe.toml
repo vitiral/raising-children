@@ -2,7 +2,7 @@
 partof = 'REQ-1'
 text = '''
 The risk to serious injury and especially death shall be avoided as much as
-possible, with a weight on the impact to other requirements.
+possible.
 
 In life, risk is unavoidable. Attempting to remove all risk is seen as against
 this requirement as removing some risk when a child is young will fail to teach

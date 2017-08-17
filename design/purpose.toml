@@ -1,15 +1,18 @@
-# project purpose and definition documentation
-
 [REQ-1]
 text = '''
 # Forward
 These are a set of requirements, specifications and tests for raising children
-from birth to the age of 18.  I am writing these mostly because I think it is
-funny to write such design documents and the idea we can have ANY "design" on
-our children is a humourous thought.
+from birth to the age of 18.  I am mostly writing these because I think it is
+funny to write such a design document but also to try and gain some clarity
+in how I am choosing to raise my kids.
 
 That asside, I will try to write in as serious a style as possible, mostly because
 being "serious" makes this even more commical.
+
+These documents are hosted at https://github.com/vitiral/raising-children. If
+you find these documents useful, leave a star there! If you find an error or
+have a suggestion, feel free to open an issue. If you want to contribute to
+these documents, open a pull request.
 
 # Design Documents for Raising Children
 In order to properly document how children should be raised, we shall first define
@@ -19,12 +22,11 @@ will implement.
 The primary requirements for a child who turns 18 are outlined below. We use this
 as our top level requirements because they will help guide how we define our
 specifications (how we will actually be a parent):
-- [[REQ-safe]]: the risk of serious injury and/or death should be prevented.
-- [[REQ-healthy]]: the child should develop healthy habbits including diet,
-  exercise and meditation.
-- [[REQ-dependency]]: the child should learn the value and costs of both
-  dependency and independence and be able to apply them wisely.
-- [[REQ-wisdom]]: the child should be on a path of wisdom and be able to make
-  choices that are as fair and impartial as possible.
-- [[REQ-moral]]: the child should have moral character.
+- [[REQ-safe]]: the risk of serious injury and/or death should be prevented
+- [[REQ-healthy]]: healthy habbits including diet, exercise and meditation
+  should be developed
+- [[REQ-dependency]]: the value of emotional indepdence, self sufficiency and
+  relationships with others are covered here
+- [[REQ-wisdom]]: the child should have wisdom in the choices they make
+- [[REQ-moral]]: the child should have moral character
 '''
