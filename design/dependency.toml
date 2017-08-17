@@ -1,0 +1,36 @@
+[REQ-dependency]
+partof = 'REQ-1'
+text = '''
+As human beings, we have dependency on a community of people. As a child
+especially, we have a strong dependency on our parents. Through the
+stages of childhood, both dependency and independence should be encouraged
+where they are useful to the growth of the child.
+
+The first goal of depdency is self-sufficiency, which is defined in
+[[REQ-self_sufficient]]. However, there are other goals around dependency than
+financial or practical independence, and that is emotional indepdence. 
+That is defined in [[REQ-emotional_independence]].
+'''
+
+[REQ-self_sufficient]
+partof = 'REQ-dependency'
+text = '''
+However, the final goal must be that as the child gets to ages approaching
+15-17 (depending on their maturity) they should be "completely independent"
+meaning that if they decided they wanted to live on their own it would be
+possible for them to do so.
+'''
+
+[REQ-emotional_independence]
+partof = 'REQ-dependency'
+text = '''
+Healthy relationships involve many forms of dependency: dependency on
+communication, cooperation, honesty and affection. However, healthy
+relationships do not involve emotional dependency. Each participant in a
+relationship must recognize that any emotions they are having are *their own
+emotions*, they must own them.  
+
+It is extremely important to teach children from a young age that *having
+emotions is healthy*, but that only **they** are responsible for addressing
+their emotions.
+'''

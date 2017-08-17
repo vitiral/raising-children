@@ -1,0 +1,23 @@
+[REQ-safe]
+partof = 'REQ-1'
+text = '''
+The risk to serious injury and especially death shall be avoided as much as
+possible, with a weight on the impact to other requirements.
+
+In life, risk is unavoidable. Attempting to remove all risk is seen as against
+this requirement as removing some risk when a child is young will fail to teach
+real world consequences, which have much higher risks. In particular, risk of
+minor injury is seen as no risk at all: it is only the risk of learning a lesson
+that is taught by reality, whether reality is in the form of gravity, pointy
+things or ice cold snow.
+
+For example, if you don't let a young child play on a 2 foot high table (and
+probaly hurt themselves) then they may never learn the consequences of heights
+and fall off a much higher structure when they are 4. Similarily, if you don't
+let them take their shoes off sometime in the winter and walk on the snow, they
+may throw their shoes out the car on your vacation to Alaska. 
+
+Minor consequences now are always preferable to major consequences in the
+future. Major consequences now are almost always preferable to potentially
+deadly consequences in the future.
+'''

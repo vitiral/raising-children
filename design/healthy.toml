@@ -1,0 +1,19 @@
+[REQ-healthy]
+partof = 'REQ-1'
+text = '''
+Healthy habbits are an extremely important part of the development of children
+to adulthood because **habbits** are the only thing we have when things are
+new or difficult.
+
+Habbits are primarily taught by example, so this requirement places a large
+requirement on the **parents** to follow the specifications as closely as
+possible.
+
+Healthy habbits are broken down into the following requirements:
+- [[REQ-healthy-diet]]: a healthy diet
+- [[REQ-healthy-exercise]]: habbits of exercise
+- [[REQ-healthy-meditation]]: developing a meditative practice
+- [[REQ-healthy-learning]]: developing the habbit of always learning
+  and being comfortable learning.
+'''
+
