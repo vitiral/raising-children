@@ -1,0 +1,69 @@
+# project purpose and definition documentation
+
+[REQ-1]
+text = '''
+# Forward
+These are a set of requirements, specifications and tests for raising children
+from birth to the age of 18.  I am writing these mostly because I think it is
+funny to write such design documents and the idea we can have ANY "design" on
+our children is a humourous thought.
+
+That asside, I will try to write in as serious a style as possible, mostly because
+being "serious" makes this even more commical.
+
+# Design Documents for Raising Children
+In order to properly document how children should be raised, we shall first define
+a set of high level requirements which all other requirements and specifications
+will implement.
+
+The primary requirements for a child who turns 18 are outlined below. We use this
+as our top level requirements because they will help guide how we define our
+specifications (how we will actually parent):
+- [[REQ-safe]]: the risk of serious injury and/or death should be prevented.
+- [[REQ-healthy]]: the child should develop healthy habbits including diet,
+  exercise and meditation.
+- [[REQ-dependency]]: the child should learn the value and costs of both
+  dependency and independence and be able to apply them wisely.
+- [[REQ-wisdom]]: the child should be on a path of wisdom and be able to make
+  choices that are as fair and impartial as possible.
+- [[REQ-moral]]: the child should have moral character.
+'''
+
+[REQ-safe]
+partof = 'REQ-1'
+text = '''
+The risk to serious injury and especially death shall be avoided as much as
+possible, with a weight on the impact to other requirements.
+
+In life, risk is unavoidable. Attempting to remove all risk is seen as against
+this requirement as removing risk when a child is young will fail to teach
+real world consequences, which have much higher risks. 
+
+For example, if you don't let a young child play on a 2 foot high table (and
+probaly hurt themselves) then they may never learn the consequences of heights
+and fall off a much higher structure when they are 4.
+'''
+
+[REQ-healthy]
+partof = 'REQ-1'
+text = '''
+Healthy habbits are an extremely important part of the development of children
+to adulthood because **habbits** are the only thing we have when things are
+new or difficult.
+
+Habbits are primarily taught by example, so this requirement places a large
+requirement on the **parents** to follow the specifications as closely as
+possible.
+
+Healthy habbits are broken down into the following requirements:
+- [[REQ-healthy-diet]]: a healthy diet
+- [[REQ-healthy-exercise]]: habbits of exercise
+- [[REQ-healthy-meditation]]: developing a meditative practice
+- [[REQ-healthy-learning]]: developing the habbit of always learning
+  and being comfortable learning.
+'''
+
+[REQ-dependency]
+partof = 'REQ-1'
+text = '''
+'''
